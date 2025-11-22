@@ -113,9 +113,6 @@ public class QuizController {
     }
 
 
-
-
-
     @GetMapping("/test")
     public Map<String , String>test(){
         logger.info("Successfully the test endpoints working.....");

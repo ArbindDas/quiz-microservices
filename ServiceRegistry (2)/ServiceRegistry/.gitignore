@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+# Create or edit .gitignore
+echo ".env" >> .gitignore
+echo "*.env" >> .gitignore
+echo "**/.env" >> .gitignore

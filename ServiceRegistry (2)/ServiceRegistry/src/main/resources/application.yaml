@@ -1,8 +1,8 @@
 spring:
   application:
-    name: service-registry
+    name: SERVICE-REGISTRY
 server:
-  port: 8083
+  port: 8761
 #disable  as  client
 eureka:
   client:

@@ -1,18 +1,4 @@
-//package com.gateway.ApiGatway;
-//
-//import org.springframework.boot.SpringApplication;
-//import org.springframework.boot.autoconfigure.SpringBootApplication;
-//import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
-//
-//@SpringBootApplication
-//@EnableDiscoveryClient
-//public class ApiGatwayApplication {
-//
-//	public static void main(String[] args) {
-//		SpringApplication.run(ApiGatwayApplication.class, args);
-//	}
-//
-//}
+
 
 package com.gateway.ApiGatway;
 
@@ -25,6 +11,7 @@ import java.util.Map;
 
 @SpringBootApplication
 @RestController
+@EnableDiscoveryClient
 public class ApiGatwayApplication {
 
     public static void main(String[] args) {

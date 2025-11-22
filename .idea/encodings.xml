@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ServiceRegistry (2)/ServiceRegistry/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/question-service (1)/question-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/quiz-service (1)/quiz-service/src/main/java" charset="UTF-8" />
   </component>
